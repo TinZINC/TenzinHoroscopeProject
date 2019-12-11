@@ -1,0 +1,27 @@
+h1 {
+    font-size: 200%;
+    color: black;
+}
+h2 {
+    color: darkslategrey;
+}
+button {
+    width: 150px;
+    height: 40px;
+    color: black;
+    cursor: pointer;
+    background-color: inherit;
+
+}
+#MONTH, #DAY, #NAME {
+    display:compact;
+    height: 30px;
+    font-size: 15px;
+    background-color: lightgrey;
+}
+#outPutImage {
+    position: relative;
+    top: 130px;
+}
+
+
